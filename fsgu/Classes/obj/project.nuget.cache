@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4pKAHcOlrKKKSd0Eac9YeamvkXrdi97yBaTm8IT7u5Tmfa0bjNhuXAG2kxIHzePaLlojDce8yb68wROrzoLtjw==",
+  "success": true,
+  "projectFilePath": "D:\\OneDrive\\Dropbox\\F Sharp Projects\\fsgu\\Classes\\Classes.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\paul\\.nuget\\packages\\fsharp.core\\7.0.200\\fsharp.core.7.0.200.nupkg.sha512"
+  ],
+  "logs": []
+}

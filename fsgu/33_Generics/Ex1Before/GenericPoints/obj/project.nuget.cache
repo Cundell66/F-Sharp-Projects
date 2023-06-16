@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "quRhq+yvEuZk2MBhYI+rsq97lWxbommEsyn1w4Tggk+CLpKBuEEGWAYQVwfGyOSAPQF4T7tJOTTyVFY/LzTlOA==",
+  "success": true,
+  "projectFilePath": "D:\\OneDrive\\Dropbox\\F Sharp Projects\\fsgu\\33_Generics\\Ex1Before\\GenericPoints\\GenericPoints.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\paul\\.nuget\\packages\\fsharp.core\\7.0.200\\fsharp.core.7.0.200.nupkg.sha512"
+  ],
+  "logs": []
+}

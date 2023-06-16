@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+yEgGL5jAyMJnr+z7QUA4uKaD1aMWcK7GfebWWd9WfkNUQrcxY/0hkC47/eaGfmFbA187lwv6DRqD0IS5Gm25Q==",
+  "success": true,
+  "projectFilePath": "D:\\OneDrive\\Dropbox\\F Sharp Projects\\fsgu\\Bricks\\Bricks.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\paul\\.nuget\\packages\\fsharp.core\\7.0.200\\fsharp.core.7.0.200.nupkg.sha512"
+  ],
+  "logs": []
+}

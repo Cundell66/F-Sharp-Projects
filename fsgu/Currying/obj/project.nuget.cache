@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "anVk2qab5pNJN55685DTezwV/F9cxIdpYlwafJVFw+wfIcTicaWaShTgCValkw27X1FTOXSmpsQuHtcVwhr//Q==",
+  "success": true,
+  "projectFilePath": "D:\\OneDrive\\Dropbox\\F Sharp Projects\\fsgu\\Currying\\Currying.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\paul\\.nuget\\packages\\fsharp.core\\7.0.200\\fsharp.core.7.0.200.nupkg.sha512"
+  ],
+  "logs": []
+}

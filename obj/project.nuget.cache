@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BO6Jj+HS+o4jyLAv4IF16ZibHkTA6UbN57ahz3OhiJ96gBChY+yswB9VJGNK8Jc0D3Phqib3LmgAsq1NNnga0w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Self Storage 2\\Dropbox\\F Sharp Projects\\F Sharp Projects.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Self Storage 2\\.nuget\\packages\\fsharp.core\\7.0.300\\fsharp.core.7.0.300.nupkg.sha512"
+  ],
+  "logs": []
+}

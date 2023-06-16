@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wJmonlaDsHUyhrvBaK2+ntmpmVuGwsRMJG2SdmUv+qtVnYucF+gNyijKyc0VxYp49/AlBYbDFLo8SVRBLRPKoQ==",
+  "success": true,
+  "projectFilePath": "D:\\OneDrive\\Dropbox\\F Sharp Projects\\fsgu\\StudentScores\\StudentScores.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\paul\\.nuget\\packages\\fsharp.core\\7.0.200\\fsharp.core.7.0.200.nupkg.sha512"
+  ],
+  "logs": []
+}
